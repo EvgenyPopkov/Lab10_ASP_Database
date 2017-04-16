@@ -1,0 +1,19 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+table {
+    margin-top: 10px;
+}
+
+input {
+    max-width: 280px;
+}
